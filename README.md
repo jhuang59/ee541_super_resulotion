@@ -1,6 +1,6 @@
 ## ee541_super_resulotion
 Author:Zijing chen, Jie Huang
-
+Github link:https://github.com/jhuang59/ee541_super_resulotion.git
 Dataset: DIV2K
 
 Pre-processing on dataset: rotate, flip
